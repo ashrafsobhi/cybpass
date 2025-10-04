@@ -1,0 +1,16 @@
+# متطلبات أداة توليد كلمات المرور
+# Password Generator Tool Requirements
+
+# لا توجد مكتبات خارجية مطلوبة
+# No external libraries required
+
+# Python 3.6+ مطلوب
+# Python 3.6+ required
+
+# المكتبات المدمجة المستخدمة:
+# Built-in libraries used:
+# - random (لتوليد الأرقام العشوائية)
+# - string (للحروف والأرقام)
+# - sys (لإدارة النظام)
+# - os (لعمليات النظام)
+# - datetime (للتواريخ والأوقات)
